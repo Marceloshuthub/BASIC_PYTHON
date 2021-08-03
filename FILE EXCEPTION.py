@@ -12,7 +12,7 @@ while True:
     if n==1:
         try:
             f = open('abc.txt')
-            f.write("Sample")  #When i comment this line it will be show Value Error
+            f.write("Sample")  #modes dependent
             print("VALID OPERATION")
         except ValueError:
             print("Value Error!")
