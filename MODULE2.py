@@ -1,5 +1,5 @@
 import os
-from Program_4_a import*
+from MODULE import*
 os.system("clear")
 o1=op()
 o2=op()
